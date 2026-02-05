@@ -196,9 +196,9 @@
 - **16.7** 요약
 
 ## 📜 진행방식
-- 일정 : 2026. 02. 05(목)
-  - 매주 월/목 오후 2시, 총 8주(16회)
-- 인원: 6명
+- 일정 : 2026. 02. 05(목) ~
+  - 매주 목 밤 10시
+- 인원: 4명
 
 ### 읽기
 - 알아서!
@@ -252,9 +252,6 @@ p.123 n문단
             <a href="https://github.com/je-pa"><img width="100px" src="https://avatars.githubusercontent.com/u/76720692?v=4" /></a>
         </td>
         <td align="center">
-            <a href="https://github.com/cchoijjinyoung"><img width="100px" src="https://avatars.githubusercontent.com/u/68311264?v=4" /></a>
-        </td>
-        <td align="center">
             <a href="https://github.com/hanjihoon03"><img width="100px" src="https://avatars.githubusercontent.com/u/163777923?v=4" /></a>
         </td>
     </tr>
@@ -262,7 +259,6 @@ p.123 n문단
         <td align="center">강혜주</td>
         <td align="center">남정길</td>
         <td align="center">박지은</td>
-        <td align="center">최진영</td>
         <td align="center">한지훈</td>
     </tr>
 </table>
